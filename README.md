@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddastardly91 (Aaron)
 - 👀 I’m interested in ... Coding, Gaming, Food
-- 🌱 I’m currently learning ... HTML, CSS & Javascript
+- 🌱 I’m currently learning ... HTML, CSS, Javascript & React
 - 💞️ I’m looking to collaborate on ... Nothing atm, currently improving my knowledge for Web Development.
 
 <!---
