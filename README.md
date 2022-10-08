@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on ... Nothing atm.
 
 
+<div style="display: flex; justify-content: center; align-items: center">
 ![ddastardly91's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddastardly91&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddastardly91&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 <!---
 ddastardly91/ddastardly91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
