@@ -12,3 +12,7 @@
 <div align="center">
   <img src="https://github.com/ddastardly91/ddastardly91/blob/output/github-contribution-grid-snake.svg" />
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ddastardly91&color=blueviolet" />
+</div>
