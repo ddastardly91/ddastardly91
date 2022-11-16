@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://skills.thijs.gg/icons?i=html,css,js,nodejs,sass,react,vue,vite,figma" />
+<img src="https://skills.thijs.gg/icons?i=html,css,js,sass,react,vite" />
 </div>
 
 <br>
