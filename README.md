@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://skills.thijs.gg/icons?i=html,css,js,sass,react,nextjs,vite,supabase,nodejs,express,mongodb" />
+<img src="https://skills.thijs.gg/icons?i=html,css,js,sass,react,nextjs,nodejs,express,mongodb,prisma" />
 </div>
 
 <br>
