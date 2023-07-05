@@ -5,7 +5,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ddastardly91&show_icons=true&theme=dracula" height="200px" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ddastardly91&theme=dracula" height="200px" />
 </div>
 
